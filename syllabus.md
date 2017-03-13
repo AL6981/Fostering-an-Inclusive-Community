@@ -24,8 +24,7 @@ As leaders in the web dev learning community, where do we stand as a diverse, in
 ## Activities
 * Mind-mapping  
 * Article/chapter readings
-* Analysis of visual presentations  
-* Quizzes  
+* Analysis of visual presentations   
 * Turn & talk  
 * Gallery walk  
 * Journal reflections  
