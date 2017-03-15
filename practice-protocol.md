@@ -1,6 +1,6 @@
 # Practice Protocol
 
-#### With large groups, this activity can be done in multiple groups of 4. For smaller groups, hold this fishbowl style. The small group is in the center of the circle, with the circle also being observers.
+#### This activity can be done in multiple groups of 4 or as a fishbowl. In a fishbowl, the role-play group is in the center of a larger circle comprised of multiple observers.
 
 ##### Groups of 4
 **Roles**
