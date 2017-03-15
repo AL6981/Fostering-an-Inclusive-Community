@@ -11,3 +11,4 @@ It's most common for us to judge ourselves on our intent, and others on their im
 * How might this cause problems when communicating?
 * Why may you give, or not give, a certain person the benefit of the doubt after a challenging interaction?
 * How can individuals work to be less defensive when experiencing conflict?
+* When have you found yourself in conflict due to a miscommunication regarding your intent vs the impact on another?
