@@ -4,7 +4,7 @@ This material will be the independent pre-work to be completed before the on cam
 
 Please read the syllabus first.
 
-Article will go in order like so:
+Articles will go in order like so:
 1) journaling
 2) norms
 3) equity
