@@ -2,7 +2,7 @@
 
 This material will be the independent pre-work to be completed before the on campus in person "workshop".
 
-Please read the syllabus first. 
+Please read the syllabus first.
 
 Article will go in order like so:
 1) journaling
@@ -10,14 +10,14 @@ Article will go in order like so:
 3) equity
 4) implicit bias
 5) intent impact
-6) difficult conversations
+6) difficult conversations  
 *7) Chapters 9 & 11 in Difficult Conversations
 
-In person workshop
-*8) on campus workshop activities
-  a. turn & talk
-  b. gallery walk
-  c. role plays
-  
-  
+In person workshop  
+*8) on campus workshop activities  
+  a. turn & talk  
+  b. gallery walk  
+  c. role plays  
+
+
 *to be added
