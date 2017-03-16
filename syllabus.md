@@ -19,7 +19,8 @@ As leaders in the web dev learning community, where do we stand as a diverse, in
 
 ## Materials Needed  
 * Laptop  
-* Journal (online or old school) **Can Launch buy fun ones as a positive reinforcer for approaching this challenging work so openly?**
+* Journal (online or old school)   
+**Can Launch buy fun ones as a positive reinforcer for approaching this challenging work so openly? Graph-ruled Composition notebooks would be perfect. Even better if in Launch colors!**
 * An open mind
 
 ## Activities
