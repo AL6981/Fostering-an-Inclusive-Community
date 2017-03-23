@@ -11,7 +11,7 @@ Articles will go in order like so:
 4) implicit bias
 5) intent impact
 6) difficult conversations  
-  6a) Chapters 9 & 11 in Difficult Conversations
+  6a) [Chapters 9](https://drive.google.com/a/launchacademy.co/file/d/0B4tJ99VNjsfSQ1lqY3ZoQW1WQ1k/view?usp=sharing) & 11 in Difficult Conversations
   
 In person workshop  
 7) on campus workshop activities  
