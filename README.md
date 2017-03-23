@@ -11,13 +11,13 @@ Articles will go in order like so:
 4) implicit bias
 5) intent impact
 6) difficult conversations  
-*7) Chapters 9 & 11 in Difficult Conversations
-
+  6a) Chapters 9 & 11 in Difficult Conversations
+  
 In person workshop  
-*8) on campus workshop activities  
+7) on campus workshop activities  
   a. turn & talk  
   b. gallery walk  
   c. role plays  
 
 
-*to be added
+
