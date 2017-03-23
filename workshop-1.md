@@ -12,8 +12,8 @@ Do you think this kind of work is valuable to Launch as a company? For the stude
 
 ## Warmup(10 min):
 **Objectives  
-2) Increase team understanding of structural inequity in tech & the difference  between equity & equality  
-    3) Explore our individual implicit bias & understand how it affects our world view and the way we behave**  
+2) Increase team understanding of structural inequity in tech & the difference between equity & equality  
+3) Explore our individual implicit bias & understand how it affects our world view and the way we behave**  
 
 *Gallery Walk(6 min):*  
 ~Posted around the room are the key terms and ideas we've learned about and will continue to discuss today. For the next 6 minutes you'll write a definition on each sheet, as you understand it. If you see something already written that resonates with you, star it in addition to writing your own.  
@@ -49,6 +49,14 @@ There are many ways to offend, insult, and otherwise make someone feel badly. Mo
 
 Relying on our norms as a guide for *how* to communicate will allow us to enter a difficult conversation with more confidence.
 
+Recall the reframing strategies shared in Chapter 11 of Difficult Conversations:  
+
+Truth => Different stories  
+Accusations => Intentions & impact  
+Blame => Contribution  
+Judgements, characterizations => Feelings  
+What's wrong with you => What's going on for them  
+
 Here are a few sentence starters that lead a conversation toward a collaborative and positive outcome:
 
 ~Sharing the impact
@@ -60,9 +68,18 @@ Here are a few sentence starters that lead a conversation toward a collaborative
 * Let's work on how we might...  
 * I wonder whether it's possible to...  
 
+Can the group share some others?  
+* Instead of 'ya, but' use 'yes, and'
+*  
+*  
+
 
 ## Difficult Conversations:
+##### Time to Practice!  
 
+Group should form seated circle, with 4 chairs in the center. Have Practice Protocol available.
+
+**Demo Role Play**
 Let's envision we are in a meeting with a few team members. During the discussion the same person interrupts you more than once. Finally, when you try to continue what you were saying, the person waves their hand as if to dismiss your statement, and finishes their thought. This takes the conversation in a new direction and you're left feeling devalued by the team member, and ignored by the whole team for so easily moving on, leaving your contribution unfinished.
 
 Later in the day, the same team member says they've finished a story and would you be a second set of eyes? You're still feeling resentment from the morning meeting, and think this would be a good time to share that.
@@ -88,3 +105,9 @@ Facilitator shares what might be a good starting sentence.
   Examples may be:  
   * During the morning meeting, I felt like my ideas weren't being taken seriously. You spoke over me a few times, and I felt dismissed. I don't want to think your intent is to invalidate my ideas, but that's how it impacted me. Why would you dismiss me this morning but ask me for help now?
   * Hey, I'm happy you're asking for my help because it makes me feel like you value my work. I didn't feel that way during our morning meeting. You seemed so excited about your own ideas, that you spoke over mine and I wasn't able to share. I left feeling pretty devalued.
+
+Next group enters fishbowl and runs through scenario. Repeat.
+
+## Reflection  
+Google Survey:
+[Anonymous feedback](https://docs.google.com/a/launchacademy.co/forms/d/13wzEeqebfdDMSX7_ftuFO9OmNn8AKAKqnY_BaOYfyJs/edit)
