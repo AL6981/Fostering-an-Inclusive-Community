@@ -15,9 +15,8 @@ As leaders in our communities and as humans in the world, where do we stand as e
 
 ## Materials Needed  
 * Laptop  
-* Journal (online or old school)   
-**Can Launch buy fun ones as a positive reinforcer for approaching this challenging work so openly? Graph-ruled Composition notebooks would be perfect. Even better if in Launch colors!**
-* An open mind
+* Journal
+* A growth mindset
 
 ## Activities
 * Mind-mapping  
