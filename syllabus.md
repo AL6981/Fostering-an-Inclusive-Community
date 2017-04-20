@@ -1,19 +1,15 @@
 # Fostering an Inclusive Community  
 
 ## Essential Question  
-As leaders in the web dev learning community, where do we stand as a diverse, inclusive, and equitable company, where do we want to be, and how will we get there?  
+As leaders in our communities and as humans in the world, where do we stand as effective communicators, where do we want to be, and how will we get there?  
 
 ## Objectives  
 1) Develop & implement a set of shared communication norms
-2) Increase team understanding of structural inequity in tech & the difference between equity & equality  
-3) Explore our individual implicit bias & understand how it affects our world view and the way we behave  
-4) Practice & assess difficult conversation skills  
+2) Explore the ideas of intent vs impact
+3) Practice & assess difficult conversation skills  
 
 ## Key Terms & Concepts  
-* Structural Inequity
-* Equity vs Equality
 * Norms
-* Implicit Bias
 * Intent vs Impact
 * Difficult Conversations  
 

@@ -11,7 +11,7 @@ Evaluate the short story and graphic below:
 * Using the photo as a template, sketch your own version of the story to make it more relevant to 2017 by switching the elephant for a more current topic and the blind men to other individuals or groups in society. Don't worry about your drawing skills here. It's the message we're hoping to see shine through!
 
 ### Additional Required Readings
-* [The other inequality is structural](http://blogs.reuters.com/great-debate/2014/02/03/the-other-inequality-is-structural/)
+*
 * [Ed Tech's Inequalities](http://hackeducation.com/2015/04/08/inequalities)
 
 

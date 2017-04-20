@@ -4,10 +4,14 @@
 
 ![intent vs impact](https://pbs.twimg.com/media/CEu5At0UIAAJ2Ac.jpg)
 
-#### READ ME ---> [Intent vs Impact: Jesse Williams, Justin Timberlake & Teachable Moments](http://www.theinclusionsolution.me/intent-vs-impact-jesse-williams-justin-timberlake-teachable-moments-bet-awards/)
+#### READ ME --->
 
-### Microaggressions and Microinsults  
-These are the everyday verbal, nonverbal, and environmental slights, snubs, or insults, whether intentional or unintentional, which communicate hostile, derogatory, or negative messages to target persons based solely upon their marginalized group membership. [-Psychology Today](https://www.psychologytoday.com/blog/microaggressions-in-everyday-life/201011/microaggressions-more-just-race)
+### Miscommunication
+Miscommunication happens via verbal, nonverbal, and written messages, when a recipient of a message does not hear what the speaker intends to convey.
+
+Envision this: A manager, Daniela, leads a meeting with 2 other team members, and the focus is a new email campaign. Daniela likes an idea shared by one team member. She responds, "Great plan David. I know this week is packed, but let's try and have that done by the end of the week anyway. I bet we'll see a boost in responses."
+
+Daniela conveyed that she liked David's idea. David is the lead marketer, and Daniela intends for him to be the one to complete this task. David's week is overwhelming, and he hears her say 'let's try' which to him means anyone can do it, and it's not a hard deadline. What issues might arise from this miscommunication?
 
 These are most often not _**intended**_ to be harmful, but they do impact others in a negative way, regardless. Below are some examples of things said to various minority groups. Have you heard any of these said before? Have you been the one saying them?  
 

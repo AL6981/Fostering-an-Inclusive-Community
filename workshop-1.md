@@ -70,10 +70,7 @@ Here are a few sentence starters that lead a conversation toward a collaborative
 
 Can the group share some others?  
 * Instead of 'ya, but' use 'yes, and'
-*  
-*  
-
-
+Test change
 ## Difficult Conversations:
 ##### Time to Practice!  
 
