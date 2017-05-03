@@ -5,11 +5,11 @@
 2) Explore the ideas of intent vs impact  
 3) Practice & assess difficult conversation skills   
 
-## Activator(3 min):  
+## Activator (3 min):  
 *Journal*  
 Do you think this kind of work is valuable to Launch as a company? For the students? Support your response with at least three examples of why or why not. Sharing responses is optional.
 
-## Warmup(10 min):
+## Warmup (10 min):
 **Objectives  
 1) Refresh our memories of the key terms we're exploring  
 2) Gain a clearer understanding of our personal interpretation of the ideas  
@@ -37,11 +37,10 @@ In any group, norms & culture will develop. If those norms aren't made explicit,
 
 Whole Launch team reviews summary sheet. Does this guide us to a set list of agreed upon norms? Are there any items that leave us uncertain? Does more work need to be done or do we have consensus?
 
-## Intent vs Impact:
-**Objectives   
-1) Develop & implement a set of shared communication norms  
-3) Explore our individual implicit bias & understand how it affects our world view and the way we behave  
-4) Practice & assess difficult conversation skills**  
+## Intent vs Impact (45 min):
+**Objectives**   
+1) Explore our individual communication skills
+2) Practice & assess difficult conversation skills  
 
 #### It's most common for us to judge ourselves on our intent, and others on their impact.
 
@@ -59,21 +58,28 @@ What's wrong with you => What's going on for them
 
 **In the Intent vs Impact Lesson** you were asked to reflect on a miscommunication between Daniela and David, and consider some issues that may have arisen. Would anyone like to share an issue they identified as potentially problematic?
 
+**Group Discussion**  
+
 ~How could the use of norms have helped avoid this situation, or, resolve it without conflict/frustration?
 
-Here are a few sentence starters that lead a conversation toward a collaborative and positive outcome:
+![awareness gap](http://www.the20project.com/uploads/1/5/6/7/15678964/6829539.jpg?311)   
 
-~Sharing the impact
+Here are a few sentence starters that lead a conversation toward a collaborative and positive outcome: (Have group members scribe these on white board wall)
+
+**~Sharing the impact**
 * I don't know whether or not you intended this, but I felt...when...  
 * After class today I left feeling discouraged because...
-* This norm feels/felt neglected when...
-~Making requests
+* This norm feels/felt neglected when...  
+
+~Making requests  
 * Can you help me understand how/why...  
 * Let's work on how we might...  
 * I wonder whether it's possible to...  
 
 ~Can the group share some others?  
-* Instead of 'ya, but' use 'yes, and'
+* Instead of 'ya, but' use 'yes, and'  
+
+Write your ideas on the white board.
 
 ## Difficult Conversations:
 ##### Time to Practice!  

@@ -19,7 +19,7 @@ Daniela conveyed that she liked David's idea. David is the lead marketer, and Da
 * What issues might arise from this miscommunication?
 
 #### Reflection Question(s):  
-![awarenss gap](http://www.the20project.com/uploads/1/5/6/7/15678964/6829539.jpg?311)  
+![awareness gap](http://www.the20project.com/uploads/1/5/6/7/15678964/6829539.jpg?311)  
 
 **It's most common for us to judge ourselves on our intent, and others on their impact.**  
 * How might this cause problems when communicating?  
