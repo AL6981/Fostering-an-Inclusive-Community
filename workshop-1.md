@@ -7,10 +7,10 @@
 
 ## Activator (3 min):  
 *Journal*  
-Do you think this kind of work is valuable to Launch as a company? For the students? Support your response with at least three examples of why or why not. Sharing responses is optional.
+Do you think this kind of work is valuable to you as a learner, as a communicator? How about for our students? Who else in your life might benefit from these skills? Support your response. Sharing responses is optional.
 
 ## Warmup (10 min):
-**Objectives  
+**Objectives**  
 1) Refresh our memories of the key terms we're exploring  
 2) Gain a clearer understanding of our personal interpretation of the ideas  
 3) Start to see how others perceive the same ideas  
@@ -25,7 +25,9 @@ Do you think this kind of work is valuable to Launch as a company? For the stude
 **Objectives
 1) Develop & implement a set of shared communication norms**  
 
-In any group, norms & culture will develop. If those norms aren't made explicit, they'll develop organically, for better or worse. To create and sustain a culture of positivity, inclusion, and transparent communication, norms should be agreed upon and adhered to by the community at large. These norms must be explicitly modeled by leadership. In an educational setting, the educators and other student-facing staff must also be the group responsible for modeling norms and holding students accountable for the same.
+In any group, norms & culture will develop. If those norms aren't made explicit, they'll develop organically, for better or worse. To create and sustain a culture of positivity, inclusion, and transparent communication, norms should be agreed upon and adhered to by the community at large. These norms must be explicitly modeled by leadership. In an educational setting, the educators and other student-facing staff must also be the group responsible for modeling norms and holding students accountable for the same.  
+
+[The 7 Norms of Collaboration](https://docs.google.com/a/launchacademy.co/document/d/1w7sw8zIF1IJzBwF-Ld9EJ74wMLqrkC90aEyzzuSEiYk/edit?usp=sharing)  
 
 *Turn & Talk(10 min):*  
 ~Turn to the person next to you and for 3 minutes, share your thoughts on the 7 suggested norms. Do you feel any aren't needed? Should something be added? Share for the full 3 minutes. The listener may not interrupt. Sit with silence when necessary.  
@@ -35,7 +37,9 @@ In any group, norms & culture will develop. If those norms aren't made explicit,
 ~Take turns sharing your partner's view with the group.  
 ~Spend 3 minutes as a group deciding the three biggest take-aways to share with the whole team. Designate one speaker, and one person to put the info on a chart paper.  
 
-Whole Launch team reviews summary sheet. Does this guide us to a set list of agreed upon norms? Are there any items that leave us uncertain? Does more work need to be done or do we have consensus?
+Each group shares summary sheet with whole team. Does this guide us to a set list of agreed upon norms? Are there any items that leave us uncertain? Does more work need to be done or do we have consensus?
+
+### 15 Minute Movement Break!  
 
 ## Intent vs Impact (45 min):
 **Objectives**   
@@ -79,9 +83,10 @@ Here are a few sentence starters that lead a conversation toward a collaborative
 ~Can the group share some others?  
 * Instead of 'ya, but' use 'yes, and'  
 
-Write your ideas on the white board.
 
-## Difficult Conversations:
+### Snack Time! (5 min)  
+
+## Difficult Conversations (60 min):
 ##### Time to Practice!  
 
 Group should form seated circle, with 4 chairs in the center. Have Practice Protocol available.
