@@ -1,10 +1,9 @@
 # Fostering an Inclusive Community Workshop #1
 
 ### Objectives:
-1) Develop & implement a set of shared communication norms
-2) Increase team understanding of structural inequity in tech & the difference between equity & equality  
-3) Explore our individual implicit bias & understand how it affects our world view and the way we behave  
-4) Practice & assess difficult conversation skills  
+1) Develop & implement a set of shared communication norms  
+2) Explore the ideas of intent vs impact  
+3) Practice & assess difficult conversation skills   
 
 ## Activator(3 min):  
 *Journal*  
@@ -12,8 +11,9 @@ Do you think this kind of work is valuable to Launch as a company? For the stude
 
 ## Warmup(10 min):
 **Objectives  
-2) Increase team understanding of structural inequity in tech & the difference between equity & equality  
-3) Explore our individual implicit bias & understand how it affects our world view and the way we behave**  
+1) Refresh our memories of the key terms we're exploring  
+2) Gain a clearer understanding of our personal interpretation of the ideas  
+3) Start to see how others perceive the same ideas  
 
 *Gallery Walk(6 min):*  
 ~Posted around the room are the key terms and ideas we've learned about and will continue to discuss today. For the next 6 minutes you'll write a definition on each sheet, as you understand it. If you see something already written that resonates with you, star it in addition to writing your own.  
@@ -21,7 +21,7 @@ Do you think this kind of work is valuable to Launch as a company? For the stude
 *Share Out(4 min):*  
 ~Who wants to share something that resonated with them? What did it say and why did that stand out?  
 
-## Norms(20 min):
+## Norms (20 min):
 **Objectives
 1) Develop & implement a set of shared communication norms**  
 
@@ -31,7 +31,7 @@ In any group, norms & culture will develop. If those norms aren't made explicit,
 ~Turn to the person next to you and for 3 minutes, share your thoughts on the 7 suggested norms. Do you feel any aren't needed? Should something be added? Share for the full 3 minutes. The listener may not interrupt. Sit with silence when necessary.  
 ~Switch positions for the next 3 minutes and repeat the exercise.  
 ~Join with another pair of two.  
-~Share with the larger group a summary of what you think your partner's main ideas were(1 min). The partner may clarify after the minute share out.  
+~Share with the larger group a summary of what you think your partner's main ideas were (1 min). The partner may clarify after the minute share out.  
 ~Take turns sharing your partner's view with the group.  
 ~Spend 3 minutes as a group deciding the three biggest take-aways to share with the whole team. Designate one speaker, and one person to put the info on a chart paper.  
 
@@ -57,6 +57,10 @@ Blame => Contribution
 Judgements, characterizations => Feelings  
 What's wrong with you => What's going on for them  
 
+**In the Intent vs Impact Lesson** you were asked to reflect on a miscommunication between Daniela and David, and consider some issues that may have arisen. Would anyone like to share an issue they identified as potentially problematic?
+
+~How could the use of norms have helped avoid this situation, or, resolve it without conflict/frustration?
+
 Here are a few sentence starters that lead a conversation toward a collaborative and positive outcome:
 
 ~Sharing the impact
@@ -68,9 +72,9 @@ Here are a few sentence starters that lead a conversation toward a collaborative
 * Let's work on how we might...  
 * I wonder whether it's possible to...  
 
-Can the group share some others?  
+~Can the group share some others?  
 * Instead of 'ya, but' use 'yes, and'
-Test change
+
 ## Difficult Conversations:
 ##### Time to Practice!  
 
@@ -95,8 +99,8 @@ What norms might be most helpful to us here? In what order?
 (Many right answers here)
 
 * The first norm that can support us here is *pausing*. Take a few seconds to gather your thoughts so you don't say the first thing that comes to mind.   
-* Presuming positive intentions* next will allow you to enter the conversation from a place of curiosity.
-* Pose a question* that will open the conversation.
+* *Presuming positive intentions* next will allow you to enter the conversation from a place of curiosity.
+* *Pose a question* that will open the conversation.
 
 Facilitator shares what might be a good starting sentence.  
   Examples may be:  

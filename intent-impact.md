@@ -4,9 +4,10 @@
 
 ![intent vs impact](https://pbs.twimg.com/media/CEu5At0UIAAJ2Ac.jpg)
 
-#### READ ME ---> [Conscious Communication](https://c-suitenetwork.com/blog/2014/09/intention-vs-impact/)  
+#### READ ME ---> [Conscious Communication](https://c-suitenetwork.com/blog/2014/09/intention-vs-impact/)    
+Reading Time: 4 min
 * [Optional Read-Integral Leadership Manifesto](http://integralleadershipmanifesto.com/manifesto/conscious-communication/)
-Reading Time: 20 min  
+Reading Time: 25 min  
 
 ### Miscommunication
 Miscommunication happens via verbal, nonverbal, and written messages, when a recipient of a message does not hear what the speaker intends to convey.

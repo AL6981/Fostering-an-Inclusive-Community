@@ -15,10 +15,11 @@ These 7 norms are a good starting place when engaging in conversations that put 
 6) Paying attention to self and others  
 7) Presuming positive intentions  
 
-**READ ME --->** [The 7 Norms of Collaboration](https://docs.google.com/a/launchacademy.co/document/d/1w7sw8zIF1IJzBwF-Ld9EJ74wMLqrkC90aEyzzuSEiYk/edit?usp=sharing)
+**READ ME --->** [The 7 Norms of Collaboration](https://docs.google.com/a/launchacademy.co/document/d/1w7sw8zIF1IJzBwF-Ld9EJ74wMLqrkC90aEyzzuSEiYk/edit?usp=sharing)  
+Reading Time: 2 min
 
 #### Reflection Question(s):
-* List few behaviors you consider ideal when communicating with others.  
+* List few behaviors *you* consider ideal when communicating with others.  
 * Of the norms listed, which feels like an area of strength for you? In what ways?  
 * Of the norms listed, which feels like an area of weakness for you? In what ways?  
 * Which norm would you like to improve at, when engaging in challenging discussions?  

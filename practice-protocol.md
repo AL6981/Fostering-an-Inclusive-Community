@@ -28,4 +28,4 @@ Facilitator reads the given scenario.
 7) Re-enact scenario incorporating the feedback. (5 min)
 
 ### Group discussion:   
-Was that conversation effective? Why or why not? What could have been done differently? Where might we use these skills while at work? 
+Was that conversation effective? Why or why not? What could have been done differently? Where might we use these skills in your relationships at home, while at work, other times? 
