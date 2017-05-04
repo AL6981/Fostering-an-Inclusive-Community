@@ -40,6 +40,8 @@ In any group, norms & culture will develop. If those norms aren't made explicit,
 Each group shares summary sheet with whole team. Does this guide us to a set list of agreed upon norms? Are there any items that leave us uncertain? Does more work need to be done or do we have consensus?
 
 ### 15 Minute Movement Break!  
+![Move it!](http://susanfitzell.com/wp-content/uploads/2012/12/partying_sm.jpg)  
+
 
 ## Intent vs Impact (45 min):
 **Objectives**   
