@@ -23,5 +23,5 @@ Perspective has so much to do with the way conversations start and end. We all a
 
 
 ### A Difficult Conversations Checklist  
-![DC Checklist 1](http://imgur.com/a/jWydg)  
-![DC Checklist 2](http://imgur.com/a/j4y5N)  
+![DC Checklist 1](http://imgur.com/a/kXIhd)  
+![DC Checklist 2](http://imgur.com/a/9A5Yf)  
