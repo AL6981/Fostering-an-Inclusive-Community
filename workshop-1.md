@@ -137,6 +137,12 @@ __*What norms might be most helpful to us here? In what order?*__
 
 Next group enters fishbowl and runs through a scenario. Repeat.
 
+### Take-away Thoughts  
+In 2-3 words, answer these questions in your journal.  
+
+* How do you decide whether to raise a difficult issue?
+* What should be the criteria for deciding whether to have a difficult conversation?
+
 ## Reflection  
 Google Survey:
 [Anonymous feedback](https://docs.google.com/a/launchacademy.co/forms/d/13wzEeqebfdDMSX7_ftuFO9OmNn8AKAKqnY_BaOYfyJs/edit)
