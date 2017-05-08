@@ -97,6 +97,7 @@ Here are a few sentence starters that lead a conversation toward a collaborative
 
 ~Can the group share some others?  
 <!-- * Instead of 'ya, but' use 'yes, and'   -->
+<!-- *And* helps you to be both curious and clear. -->
 
 
 ### Snack Time! (5 min)  

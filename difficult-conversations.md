@@ -19,4 +19,9 @@ Perspective has so much to do with the way conversations start and end. We all a
 
 
 #### Reflection Question(s):
-* Consider a piece of one of the articles that you found to be interesting. Explain what made it interesting for you. Did you agree or disagree with the author on this point? Do you have a personal connection to the content? Can you provide an alternative view?
+* Consider a piece of one of the articles that you found to be interesting. Explain what made it interesting for you. Did you agree or disagree with the author on this point? Do you have a personal connection to the content? Can you provide an alternative view?  
+
+
+### A Difficult Conversations Checklist  
+![DC Checklist 1](http://imgur.com/a/jWydg)  
+![DC Checklist 2](http://imgur.com/a/j4y5N)  
