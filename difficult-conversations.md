@@ -21,7 +21,16 @@ Perspective has so much to do with the way conversations start and end. We all a
 #### Reflection Question(s):
 * Consider a piece of one of the articles that you found to be interesting. Explain what made it interesting for you. Did you agree or disagree with the author on this point? Do you have a personal connection to the content? Can you provide an alternative view?  
 
+* What are you afraid of in difficult conversations? What worries you most?  
+* What is your tendency when faced with a difficult conversation? Do you try to avoid it?
+Confront the other person? What has your default strategy been?  
+* What are some of the advantages to your approach? What are some of the disadvantages or
+risks?  
+* Do you see any patterns in the kinds of conversations that are hard for you? With authority
+figures? Saying no? Talking about money? Negotiating for yourself (as opposed to on behalf of
+someone else)? If you do see a pattern, where does it come from?  
+
 
 ### A Difficult Conversations Checklist  
-![DC Checklist 1](https://www.dropbox.com/s/6f4xnauaqgk4476/DC%20Checklist%201.jpg?dl=0)  
-![DC Checklist 2](https://www.dropbox.com/s/lgw2onhifpi5l16/DC%20Checklist%202.jpg?dl=0)  
+![DC Checklist 1](https://s3.amazonaws.com/horizon-production/images/DC+Checklist+1.jpg)  
+![DC Checklist 2](https://s3.amazonaws.com/horizon-production/images/DC+Checklist+2.jpg)  
