@@ -85,14 +85,15 @@ Here are a few sentence starters that lead a conversation toward a collaborative
 <!-- (Have group members scribe these on white board wall) -->
 
 **~Sharing the impact**
-<!-- * I don't know whether or not you intended this, but I felt...when...   -->
+
 * After class today I left feeling discouraged because...
-<!-- * This norm feels/felt neglected when...   -->
+<!-- * This norm feels/felt neglected when...   -->  
+<!-- * I don't know whether or not you intended this, but I felt...when...   -->
 
 ~Making requests  
 * Can you help me understand how/why...  
-<!-- * Let's work on how we might...  
-* I wonder whether it's possible to...   -->
+<!-- * Let's work on how we might...   -->
+<!-- * I wonder whether it's possible to...   -->
 
 ~Can the group share some others?  
 <!-- * Instead of 'ya, but' use 'yes, and'   -->
@@ -112,9 +113,9 @@ Later in the day, the same team member says they've finished a story and would y
 
 Three people share out what might *not* be effective in starting an open dialogue.
   Examples may be:  
-  <!-- * "No way, you were a real jerk to me this morning. I can't believe you'd even ask me."
-  * "Oh, *now* you want my thoughts? I don't think so."
-  * "I'm busy sorry." -->
+  <!-- * "No way, you were a real jerk to me this morning. I can't believe you'd even ask me." -->
+  <!-- * "Oh, *now* you want my thoughts? I don't think so." -->
+  <!-- * "I'm busy sorry." -->
 
 __*Why aren't these helpful?*__
 <!-- (They don't open the lines of communication, person may shut down, get defensive.) -->
